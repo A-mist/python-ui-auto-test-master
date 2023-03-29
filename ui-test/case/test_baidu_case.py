@@ -96,5 +96,5 @@ if __name__ == "__main__":
     # 使用 unittest 依次执行当前模块中 test 打头的方法
     # verbosity=0 静默模式，仅仅获取总的测试用例数以及总的结果
     # verbosity=1 默认模式，在每个成功的用例前面有个’.’,每个失败的用例前面有个’F’
-    # verbosity=2 详细模式，测试结果会显示每个测试用例的所有相关信息
+    # verbosity=2 详细模式，测试结果会显示每个测试用例的所有相关信息s
     unittest.main(verbosity=0)
